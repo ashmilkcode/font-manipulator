@@ -1,0 +1,37 @@
+.note{
+    font-size: 17px;
+    color: black;
+}
+
+.heading{
+    font-size: 27px;
+    width: 100%;
+    box-shadow: 5px 5px 6px cornflowerblue;
+    color: white;
+}
+
+.footer1{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: rgb(25, 77, 77);
+    background-color: rgb(161, 169, 184);
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    background-color: cadetblue;
+    box-shadow: 5px 5px 6px gray;
+}
+
+h3{
+    width: 100%;
+}
+
+body{
+    background-image:url("https://media.istockphoto.com/id/1167337016/vector/school-sketch-doodle-set-various-hand-drawn-school-items.jpg?s=612x612&w=0&k=20&c=XCTdJEbWFzz-M-6PSUKxQE6pTVHNpQ9otIy3veRYUjA=");
+    background-size: cover;
+    background-position: center;
+}
